@@ -2,11 +2,13 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 In order to run this project in your local computer;
-<b>copy this link:</b>git clone https://github.com/ziagit/upload-download-file-laravel.git
-<b>Hit Enter,and wait to finish:</b>
-<b>Navigate to:</b> upload-download-file-laravel
-<b>Run:</b> composer install
-<b>Run:</b> php artisan serve
+- <b>copy this link:</b>git clone https://github.com/ziagit/upload-download-file-laravel.git
+- <b>Hit Enter,and wait to finish:</b>
+- <b>Navigate to:</b> upload-download-file-laravel
+- <b>Run:</b> composer install
+- <b>Run:</b> php artisan serve
+
+If you want a step by step guides go to https://coffeequery.com/posts/upload-and-download-file-in-laravel
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
